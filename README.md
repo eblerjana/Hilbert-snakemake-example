@@ -19,4 +19,4 @@ You can use any Snakemake workflow, just make sure that you add "resources" to e
 - activate conda environment that has snakemake installed in it
 - run pipeline: `` snakemake --profile profile --cluster-status ./hhu_hilbert.py ``
 
-You can monitor the jobs created by the pipeline on myjam: myjam3.uni-duesseldorf.de/
+You can monitor the jobs created by the pipeline on myjam: [myjam3.uni-duesseldorf.de/](https://myjam3.uni-duesseldorf.de/)
